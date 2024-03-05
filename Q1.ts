@@ -1,1 +1,1 @@
-console.log("Welcome to IB Coding School!");
+console.log("Welcome to IB Coding School!");        
