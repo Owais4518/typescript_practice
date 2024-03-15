@@ -10,7 +10,7 @@ for (var i = 0; i < mypizza.length; i++) {
     console.log(mypizza[i]);
 }
 // printing names and sentences/message
-for (var i = 0; i < mypizza.length; i++) {
-    console.log("I like to eat ".concat(mypizza[i]));
+for (var i_1 = 0; i_1 < mypizza.length; i_1++) {
+    console.log("I like to eat ".concat(mypizza[i_1]));
 }
 console.log("\nI really like to eat pizzas. pizza comes in a variety of flavors and toopings, allowing individuals to customize it to their liking");
